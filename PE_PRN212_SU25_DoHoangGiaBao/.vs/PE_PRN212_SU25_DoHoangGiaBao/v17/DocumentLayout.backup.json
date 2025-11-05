@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\dal\\entities\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\mocktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\dal\\entities\\su25jlptmocktestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\su25jlptmocktestdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\bll\\services\\mocktestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\mocktestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\dal\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|solutionrelative:bll\\services\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{60729D53-C698-494B-A87C-E35B1C01A26E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4075596-B834-441B-BA93-88003CF223B1}|PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj|solutionrelative:pe_prn212_su25_dohoanggiabao\\pe_prn212_su25_dohoanggiabao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_su25_dohoanggiabao\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2059E31A-5B51-4427-A77D-0B234C53499A}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 560,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-31T19:54:47.133Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA3wCQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:09:01.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAUwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T19:54:45.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAhwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T06:23:07.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-03T17:08:09.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T05:53:39.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv4wAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T17:38:40.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Su25jlptmockTestDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\Su25jlptmockTestDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Su25jlptmockTestDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\Su25jlptmockTestDbContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Su25jlptmockTestDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:05:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MockTest.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\MockTest.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\MockTest.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\MockTest.cs",
+              "RelativeToolTip": "DAL\\Entities\\MockTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T14:32:33.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MockTestService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\Services\\MockTestService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MockTestService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\Services\\MockTestService.cs",
+              "RelativeToolTip": "BLL\\Services\\MockTestService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:43:57.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\Entities\\Candidate.cs",
+              "RelativeToolTip": "DAL\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T20:03:35.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\Services\\CandidateService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\Services\\CandidateService.cs",
+              "RelativeToolTip": "BLL\\Services\\CandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T18:35:28.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-01T06:08:45.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\App.xaml",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\App.xaml",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-01T06:06:46.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\appsettings.json",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\appsettings.json",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T19:58:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PE_PRN212_SU25_DoHoangGiaBao.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj",
+              "RelativeDocumentMoniker": "PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj",
+              "RelativeToolTip": "PE_PRN212_SU25_DoHoangGiaBao\\PE_PRN212_SU25_DoHoangGiaBao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T19:55:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_SU25_DoHoangGiaBao\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-31T19:58:02.615Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 980,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

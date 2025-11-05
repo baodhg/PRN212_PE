@@ -1,0 +1,40 @@
+﻿<Application x:Class="PE_PRN212_SU25_DoHoangGiaBao.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:PE_PRN212_SU25_DoHoangGiaBao"
+             StartupUri="LoginWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontSize" Value="26" />
+            <Setter Property="Foreground" Value='#FF1E3A8A' />
+        </Style>
+        
+        <Style TargetType="TextBox">
+            <Setter Property="Height" Value="34" />
+            <Setter Property="Background" Value="#FFF0F9FF" />
+        </Style>
+        
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value='10' />
+            <Setter Property="Background" Value="#FF06B6D4" />
+            <Setter Property="Foreground" Value="#FFFFFF" />
+        </Style>
+
+        <Style x:Key="MainLabel" TargetType="Label">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="#FF1E3A8A" />
+            <Setter Property="Foreground" Value="White" />
+        </Style>
+        
+        <Style x:Key="MainTextBox" TargetType="TextBox" >
+            <Setter Property="Height" Value="16" />
+            <Setter Property="Background" Value="#FFF0F9FF" />
+        </Style>
+
+        <Style x:Key="MainButton" TargetType="Button">
+            <Setter Property="Padding" Value='5' />
+            <Setter Property="Background" Value="#FF06B6D4" />
+            <Setter Property="Foreground" Value="#FFFFFF" />
+        </Style>
+    </Application.Resources>
+</Application>

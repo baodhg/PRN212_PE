@@ -1,0 +1,79 @@
+﻿<Window x:Class="PE_PRN212_SU25_DoHoangGiaBao.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PE_PRN212_SU25_DoHoangGiaBao"
+        mc:Ignorable="d"
+        Title="Create | Update Window" Height="500" Width="800" FontFamily="Arial" FontSize="12" Background="#FFBAE6FD" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Loaded="Window_Loaded">
+    <Grid HorizontalAlignment="Center" Width="800" Height="484" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="61*"/>
+            <RowDefinition Height="181*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="192*"/>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="187*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Margin="19,82,162,17" Stroke="Black" Fill="#FF1E3A8A" Grid.ColumnSpan="3" Grid.RowSpan="2" />
+        <Label Content="CREATE | UPDATE PAGE" x:Name="DetailPageLabel" Margin="0,16,162,51" FontWeight="Bold" Background="#FF1E3A8A" Foreground="White" FontSize="40" Grid.ColumnSpan="3" HorizontalAlignment="Right" Width="619" />
+        <TextBox x:Name="ScoreBox" Margin="153,298,77,33" TextWrapping="Wrap" Height="NaN" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.664,0.416" Grid.Row="1"/>
+        <Label Content="ID" Margin="32,96,292,358" FontSize="20" Foreground="White" Grid.RowSpan="2">
+        </Label>
+        <Label Content="Title&#xD;&#xA;" Margin="33,22,263,306" FontSize="20" Foreground="White" Grid.Row="1">
+        </Label>
+        <Label Content="Skill Area" Margin="32,72,233,256" FontSize="20" Foreground="White" RenderTransformOrigin="0.501,0.775" Grid.Row="1">
+        </Label>
+        <Label Content="Start Time" Margin="31,119,235,210" FontSize="20" Foreground="White" Grid.Row="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.723"/>
+                    <RotateTransform Angle="-0.069"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="End Time" Margin="32,170,245,161" FontSize="20" Foreground="White" Grid.Row="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.723"/>
+                    <RotateTransform Angle="-0.069"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Candidate" Margin="33,224,244,107" FontSize="20" Foreground="White" Grid.Row="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.723"/>
+                    <RotateTransform Angle="-0.069"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Score" Margin="31,298,246,33" FontSize="20" Foreground="White" Grid.Row="1">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0" AngleX="0.723"/>
+                    <RotateTransform Angle="-0.069"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <TextBox x:Name="TestIdTextBox" Margin="154,96,0,0" TextWrapping="Wrap" Height="31" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.587,1.408" VerticalAlignment="Top" HorizontalAlignment="Left" Width="154" Grid.RowSpan="2" />
+        <TextBox x:Name="EndTimeTextBox" Margin="155,171,0,0" TextWrapping="Wrap" Height="31" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.664,0.416" Grid.ColumnSpan="2" VerticalAlignment="Top" HorizontalAlignment="Left" Width="243" Grid.Row="1"/>
+        <TextBox x:Name="StartTimeTextBox" Margin="154,122,28,209" TextWrapping="Wrap" Height="NaN" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.664,0.416" Grid.ColumnSpan="2" Grid.Row="1"/>
+        <TextBox x:Name="SkillAreaTextBox" Margin="155,75,0,0" TextWrapping="Wrap" Height="31" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.664,0.416" Grid.ColumnSpan="3" VerticalAlignment="Top" HorizontalAlignment="Left" Width="440" Grid.Row="1"/>
+        <TextBox x:Name="TitleTextBox" Margin="0,23,204,0" TextWrapping="Wrap" Height="31" TextAlignment="Left" VerticalContentAlignment="Center" Style="{StaticResource MainTextBox}" RenderTransformOrigin="0.664,0.416" HorizontalAlignment="Right" Width="441" VerticalAlignment="Top" Grid.ColumnSpan="3" Grid.Row="1"/>
+        <Button x:Name="SaveButton" Grid.Column="2" Content="Save" Margin="249,36,35,0" VerticalAlignment="Top" Click="SaveButton_Click" Grid.Row="1" />
+        <Button x:Name="CloseButton" Grid.Column="2" Content="Close" Margin="247,98,35,0" VerticalAlignment="Top" Click="CloseButton_Click" Grid.Row="1"/>
+        <ComboBox x:Name="CandidateComboBox" HorizontalAlignment="Left" Margin="156,225,0,0" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="151" Height="31" Grid.Row="1"/>
+
+
+    </Grid>
+</Window>
