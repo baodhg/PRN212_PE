@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\bll\\services\\samproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|solutionrelative:bll\\services\\samproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\bll\\services\\sampreorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|solutionrelative:bll\\services\\sampreorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\bll\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75552C30-A6F0-44D6-A8A4-3BE77B3E0E95}|BLL\\BLL.csproj|solutionrelative:bll\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\dal\\samstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|solutionrelative:dal\\samstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\dal\\entities\\sampreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2D4A4F3-15EB-44E9-9FD9-FBEDE45F1995}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\sampreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|c:\\users\\admin\\desktop\\pe_practice\\pe_prn212_fa24_se193119\\samstore_se193119\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3EC1C98-1BBD-495D-A51F-BF244B24A92B}|SamStore_SE193119\\SamStore_SE193119.csproj|solutionrelative:samstore_se193119\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 560,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SamProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\SamProductService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SamProductService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\SamProductService.cs",
+              "RelativeToolTip": "BLL\\Services\\SamProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T18:19:04.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "SamStore_SE193119\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:42:34.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml",
+              "RelativeToolTip": "SamStore_SE193119\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T17:30:16.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\MainWindow.xaml",
+              "RelativeToolTip": "SamStore_SE193119\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T16:36:29.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\LoginWindow.xaml",
+              "RelativeToolTip": "SamStore_SE193119\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T16:43:10.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SamStore_SE193119\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:36:27.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SamPreOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\SamPreOrderService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\SamPreOrderService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\SamPreOrderService.cs",
+              "RelativeToolTip": "BLL\\Services\\SamPreOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:08:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\BLL\\Services\\MemberService.cs",
+              "RelativeToolTip": "BLL\\Services\\MemberService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:59:15.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SamStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\SamStoreContext.cs",
+              "RelativeDocumentMoniker": "DAL\\SamStoreContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\SamStoreContext.cs",
+              "RelativeToolTip": "DAL\\SamStoreContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:41:17.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:41:40.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SamPreOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\Entities\\SamPreOrder.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\SamPreOrder.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\Entities\\SamPreOrder.cs",
+              "RelativeToolTip": "DAL\\Entities\\SamPreOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T17:03:08.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\App.xaml",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\App.xaml",
+              "RelativeToolTip": "SamStore_SE193119\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-08T16:44:59.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "SamStore_SE193119\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwC4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T16:58:10.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\appsettings.json",
+              "RelativeDocumentMoniker": "SamStore_SE193119\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\appsettings.json",
+              "RelativeToolTip": "SamStore_SE193119\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-08T16:39:57.151Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 980,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

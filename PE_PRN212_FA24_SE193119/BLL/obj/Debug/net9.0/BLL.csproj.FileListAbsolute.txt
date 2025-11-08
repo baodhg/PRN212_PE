@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\bin\Debug\net9.0\BLL.deps.json
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\bin\Debug\net9.0\BLL.dll
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\bin\Debug\net9.0\BLL.pdb
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\bin\Debug\net9.0\DAL.dll
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\bin\Debug\net9.0\DAL.pdb
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.dll
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\refint\BLL.dll
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\BLL.pdb
+C:\Users\Admin\Desktop\PE_PRACTICE\PE_PRN212_FA24_SE193119\BLL\obj\Debug\net9.0\ref\BLL.dll
