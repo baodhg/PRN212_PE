@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\bll\\services\\chargingsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|solutionrelative:bll\\services\\chargingsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\detailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\dal\\entities\\fa25evchargingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\fa25evchargingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\dal\\entities\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\electricvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\bll\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|solutionrelative:bll\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\dal\\entities\\chargingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B424965-939A-4A76-AC6B-63FC322900F1}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\chargingsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\chargingsessionmanagement_se193119.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\chargingsessionmanagement_se193119.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|solutionrelative:bll\\services\\useraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\chargingsessionmanagement_se193119\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D5F10DA-0738-460B-84BC-176E6B5687A3}|ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj|solutionrelative:chargingsessionmanagement_se193119\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|c:\\users\\admin\\desktop\\prn212_basis-cross-platform-application-programming-with-.net\\pe_prn212_fa25_dohoanggiabao\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA2C74BC-0B8F-4841-BEDF-E4A188DE7963}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 542,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\DetailWindow.xaml",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T11:43:55.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAIwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:04:29.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ElectricVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\ElectricVehicle.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ElectricVehicle.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\ElectricVehicle.cs",
+              "RelativeToolTip": "DAL\\Entities\\ElectricVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:34:25.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\MainWindow.xaml",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T11:04:31.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\LoginWindow.xaml",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T11:10:16.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChargingSessionService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\ChargingSessionService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\ChargingSessionService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\ChargingSessionService.cs",
+              "RelativeToolTip": "BLL\\Services\\ChargingSessionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:22:26.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DAL\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowC0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:15:45.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAHIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:44:50.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\VehicleService.cs",
+              "RelativeToolTip": "BLL\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:04:12.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fa25evchargingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\Fa25evchargingDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Fa25evchargingDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\Fa25evchargingDbContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Fa25evchargingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:09:22.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChargingSessionManagement_SE193119.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\ChargingSessionManagement_SE193119.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T11:08:34.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:13:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChargingSession.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\ChargingSession.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\ChargingSession.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\DAL\\Entities\\ChargingSession.cs",
+              "RelativeToolTip": "DAL\\Entities\\ChargingSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:38:00.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\UserAccountService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserAccountService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\Services\\UserAccountService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T11:15:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\App.xaml",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\App.xaml",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-09T11:12:01.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\appsettings.json",
+              "RelativeDocumentMoniker": "ChargingSessionManagement_SE193119\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\ChargingSessionManagement_SE193119\\appsettings.json",
+              "RelativeToolTip": "ChargingSessionManagement_SE193119\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-09T11:08:54.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA25_DoHoangGiaBao\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T11:08:07.066Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 542,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
