@@ -114,7 +114,8 @@
               "RelativeToolTip": "BLL\\Services\\SamProductService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T18:19:04.944Z"
+              "WhenOpened": "2025-11-08T18:19:04.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +125,7 @@
               "RelativeDocumentMoniker": "SamStore_SE193119\\DetailWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml.cs",
               "RelativeToolTip": "SamStore_SE193119\\DetailWindow.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowBIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T17:42:34.972Z",
               "EditorCaption": ""
@@ -138,7 +139,8 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\DetailWindow.xaml",
               "RelativeToolTip": "SamStore_SE193119\\DetailWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T17:30:16.151Z"
+              "WhenOpened": "2025-11-08T17:30:16.151Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -149,7 +151,8 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\MainWindow.xaml",
               "RelativeToolTip": "SamStore_SE193119\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T16:36:29.912Z"
+              "WhenOpened": "2025-11-08T16:36:29.912Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -160,7 +163,8 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\LoginWindow.xaml",
               "RelativeToolTip": "SamStore_SE193119\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T16:43:10.529Z"
+              "WhenOpened": "2025-11-08T16:43:10.529Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -172,7 +176,8 @@
               "RelativeToolTip": "SamStore_SE193119\\MainWindow.xaml.cs",
               "ViewState": "AgIAAH0AAAAAAAAAAAAUwEgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:36:27.072Z"
+              "WhenOpened": "2025-11-08T16:36:27.072Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -184,7 +189,8 @@
               "RelativeToolTip": "BLL\\Services\\SamPreOrderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:08:31.555Z"
+              "WhenOpened": "2025-11-08T17:08:31.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -196,7 +202,8 @@
               "RelativeToolTip": "BLL\\Services\\MemberService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:59:15.884Z"
+              "WhenOpened": "2025-11-08T16:59:15.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -208,7 +215,8 @@
               "RelativeToolTip": "DAL\\SamStoreContext.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAgwCEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:41:17.698Z"
+              "WhenOpened": "2025-11-08T16:41:17.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -220,7 +228,8 @@
               "RelativeToolTip": "DAL\\Repositories\\RepositoryBase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:41:40.073Z"
+              "WhenOpened": "2025-11-08T16:41:40.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -232,7 +241,8 @@
               "RelativeToolTip": "DAL\\Entities\\SamPreOrder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T17:03:08.663Z"
+              "WhenOpened": "2025-11-08T17:03:08.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -243,7 +253,8 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\SamStore_SE193119\\App.xaml",
               "RelativeToolTip": "SamStore_SE193119\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-08T16:44:59.122Z"
+              "WhenOpened": "2025-11-08T16:44:59.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -255,7 +266,8 @@
               "RelativeToolTip": "SamStore_SE193119\\LoginWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwC4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T16:58:10.25Z"
+              "WhenOpened": "2025-11-08T16:58:10.25Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -267,7 +279,8 @@
               "RelativeToolTip": "SamStore_SE193119\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-08T16:39:57.151Z"
+              "WhenOpened": "2025-11-08T16:39:57.151Z",
+              "EditorCaption": ""
             }
           ]
         },

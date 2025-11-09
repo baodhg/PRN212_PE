@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SamStore_SE193119")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c4dd26513b7074c75164326f51a787971c38a29")]
 [assembly: System.Reflection.AssemblyProductAttribute("SamStore_SE193119")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SamStore_SE193119")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

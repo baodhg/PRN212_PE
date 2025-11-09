@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tqt3yy4HiLw=",
+  "dgSpecHash": "tLA2BgEdGKg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\PE_PRACTICE\\PE_PRN212_FA24_SE193119\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\PRN212_Basis-Cross-Platform-Application-Programming-With-.NET\\PE_PRN212_FA24_SE193119\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
